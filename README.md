@@ -36,5 +36,4 @@ Styling interactive elements for usability
 
 🚀 Live Preview
 👉 Click here to try the Quiz Page
-https://github.com/yourusername/quiz-page
-
+https://adeife25.github.io/Quiz-page/
